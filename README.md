@@ -5,6 +5,12 @@ Created by Arie Sid
 
 This is the codebase to create Chatbot Open AI Using API Assitant.
 
+### Documents
+1. OpenAI
+```
+https://platform.openai.com/docs/overview
+```
+
 ### Prerequisite
 1. git (for Windows/MacOS/linux)
 2. nodejs (for Windows/MacOS/linux)
